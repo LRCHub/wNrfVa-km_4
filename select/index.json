@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Gordon Kill the Thomas",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T06:07:36.689482Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gordon Kill the Thomas",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Gordon_Kill_the_Thomas_ピーナッツくん.txt"
+    }
+  ]
+}
